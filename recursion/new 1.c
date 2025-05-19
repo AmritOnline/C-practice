@@ -1,12 +1,12 @@
 //Write a recursive C program to generate all permutations of a given string.
 //Input: "ABC"
 //Output:objectivec
-//ABC
-//ACB
-//BAC
-//BCA
-//CAB
-//CBA
+        //ABC
+        //ACB
+        //BAC
+        //BCA
+        //CAB
+        //CBA
 
 #include <stdio.h>
 #include <string.h>
