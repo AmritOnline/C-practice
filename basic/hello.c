@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-peintf("Hello World")
-return0;
+printf("Hello World");
+return 0;
 }
